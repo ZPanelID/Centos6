@@ -1,9 +1,9 @@
-Script Installer VPS by INDOWORX
+Script Installer VPS by ZPanel.ID
 ===================
 
 Script auto installer VPS untuk memudahkan dalam berjualan SSH, VPN, dan Proxy. Script ini telah di install berbagai macam fungsi dan alat yang akan membantu Anda dalam berjualan layanan SSH, VPN dan Proxy.
 
-https://www.indoworx.com/
+https://zpanel.id/
 
 ----------
 
